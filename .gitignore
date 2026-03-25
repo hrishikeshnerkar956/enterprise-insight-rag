@@ -1,3 +1,9 @@
+# Kiro IDE
+.kiro/
+
+# Qodo
+.qodo/
+
 # Node.js
 node_modules/
 npm-debug.log*
