@@ -52,7 +52,7 @@ Before you begin, ensure you have all required tools installed on your system. F
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/enterprise-insight-rag.git
+   git clone https://github.com/hrishikeshnerkar956/enterprise-insight-rag
    cd enterprise-insight-rag
    ```
 
